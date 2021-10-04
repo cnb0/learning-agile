@@ -34,5 +34,7 @@
                 - Agility can help you improve your organization’s performance
                 - You, as a manager or leader, can help your org achieve the benefits of agility
                 - Culture and values influence your orgs’s ability to reap the benefits of agility
+                
       - Practical skills for helping to guide and coach agile teams, and to help them remove impediments
+      
       - An understanding of how to measure the benefits and impacts of agility in your organization
