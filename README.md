@@ -45,3 +45,4 @@
         impediments
       
       - An understanding of how to measure the benefits and impacts of agility in your organization
+      
