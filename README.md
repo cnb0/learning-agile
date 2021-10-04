@@ -1,4 +1,6 @@
-# learning-agile
+# Professional Agile Leadership 
+
+  Helping leaders understand their role in enabling Agile transformations
 
 - Why Agile Matters
 - Challenges of an Agile Leader
