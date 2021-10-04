@@ -8,6 +8,7 @@
 
 
 ### Overview :
+
       -  An overview of what “Agile” is and why organizations need it to thrive in a changing world.
       -  The means to identify the potential opportunities, challenges and impacts of Agile in terms of 
          business value and why this is so important to the next generation organization.
@@ -21,12 +22,17 @@
 
 ### What you will learn:
 
-       To succeed in a changing world, organizations need to become more agile, more responsive to customer 
-       needs and market changes. 
-       This course will equip leaders and managers to help their organizations change by providing :
+      - To succeed in a changing world, organizations need to become more agile, more responsive to customer 
+        needs and market changes. 
+        
+      - To help managers and other leaders who work directly with agile teams understand how to best support, 
+        guide, and coach their teams to improve their agile capabilities.
+        
+      - This course will equip leaders and managers to help their organizations change by providing :
 
-      - An understanding of how agility can help you improve your organization’s performance
-      - An understanding of how you, as a manager or leader, can help your org achieve the benefits of agility
-      - An understanding of how culture and values influence your orgs’s ability to reap the benefits of agility
+      - An understanding of how 
+                - Agility can help you improve your organization’s performance
+                - You, as a manager or leader, can help your org achieve the benefits of agility
+                - Culture and values influence your orgs’s ability to reap the benefits of agility
       - Practical skills for helping to guide and coach agile teams, and to help them remove impediments
       - An understanding of how to measure the benefits and impacts of agility in your organization
