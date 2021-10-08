@@ -4,29 +4,29 @@
 
 1.  Why Agile Matters
 
-           An overview of what “Agile” is and why organisations need it to thrive in a 
-           changing world.
+        An overview of what “Agile” is and why organisations need it to thrive in a 
+        changing world.
 
 2.  Challenges of an Agile Leader – Improving Value Delivery
 
-           The means to i dentify the potential opportunities, challenges and impacts of Agile
-           in terms of business value and why this is so important to the next generation 
-           organisation.
+        The means to i dentify the potential opportunities, challenges and impacts of Agile
+        in terms of business value and why this is so important to the next generation 
+        organisation.
 
 3.  Leaders Grow Agility – the “What”
 
-           An understanding of techniques to support teams to sustain long-term agility including
-           the role that leaders play, shifts in thinking, and the relationship between complexity 
-           and empiricism.
+        An understanding of techniques to support teams to sustain long-term agility including
+        the role that leaders play, shifts in thinking, and the relationship between complexity 
+        and empiricism.
 
 4.  Developing People – the “Who”
 
-           Ways to continue the development of the people to help them grow and prosper in 
-           an agile way of working.
+        Ways to continue the development of the people to help them grow and prosper in 
+        an agile way of working.
 
 5.  Measuring Agility – the “How”
 
-           Guidance of how to measure and guide agile product delivery. 
+        Guidance of how to measure and guide agile product delivery. 
 
 6.  Scaling
 
